@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.4/angular.js"></script>
+    <!--script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.4/angular-route.js"></script-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.3/angular-ui-router.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script type="text/javascript" src="app/app.js"></script>
+    <script type="text/javascript" src="controllers/services/loginService.js"></script>    
+    <script type="text/javascript" src="controllers/module1Controller.js"></script>
+    <script type="text/javascript" src="controllers/loginController.js"></script>
+</head>
+
+<body ng-app="ngmodule1">
+    <div>
+        <div ng-include="'views/menu.html'"></div>
+        <div ui-view></div>
+    </div>
+</body>
+
+</html>
