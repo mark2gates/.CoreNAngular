@@ -18,9 +18,10 @@ namespace VSCodeExperiment
         public void ConfigureServices(IServiceCollection services)
         {
             // Add service and create Policy with options
+            // Test SourceTree
             services.AddCors(options =>
             {
-                options.AddPolicy("CorsPolicy",
+                options.AddPolicy("CorsPolicy", 
                     builder => builder.AllowAnyOrigin()
                     .AllowAnyMethod()
                     .AllowAnyHeader()

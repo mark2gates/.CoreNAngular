@@ -6,3 +6,11 @@ D:\ProjectExcercise\VSCodeExperiment\bin\Debug\netcoreapp1.1\VSCodeExperiment.pd
 D:\ProjectExcercise\VSCodeExperiment\obj\Debug\netcoreapp1.1\VSCodeExperiment.AssemblyInfo.cs
 D:\ProjectExcercise\VSCodeExperiment\obj\Debug\netcoreapp1.1\VSCodeExperiment.dll
 D:\ProjectExcercise\VSCodeExperiment\obj\Debug\netcoreapp1.1\VSCodeExperiment.pdb
+D:\GitHub_Code\DotNetCore-1\bin\Debug\netcoreapp1.1\VSCodeExperiment.deps.json
+D:\GitHub_Code\DotNetCore-1\bin\Debug\netcoreapp1.1\VSCodeExperiment.runtimeconfig.json
+D:\GitHub_Code\DotNetCore-1\bin\Debug\netcoreapp1.1\VSCodeExperiment.runtimeconfig.dev.json
+D:\GitHub_Code\DotNetCore-1\bin\Debug\netcoreapp1.1\VSCodeExperiment.dll
+D:\GitHub_Code\DotNetCore-1\bin\Debug\netcoreapp1.1\VSCodeExperiment.pdb
+D:\GitHub_Code\DotNetCore-1\obj\Debug\netcoreapp1.1\VSCodeExperiment.AssemblyInfo.cs
+D:\GitHub_Code\DotNetCore-1\obj\Debug\netcoreapp1.1\VSCodeExperiment.dll
+D:\GitHub_Code\DotNetCore-1\obj\Debug\netcoreapp1.1\VSCodeExperiment.pdb

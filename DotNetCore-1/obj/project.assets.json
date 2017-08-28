@@ -9684,16 +9684,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectExcercise\\VSCodeExperiment\\VSCodeExperiment.csproj",
+      "projectUniqueName": "D:\\GitHub_Code\\DotNetCore-1\\VSCodeExperiment.csproj",
       "projectName": "VSCodeExperiment",
-      "projectPath": "D:\\ProjectExcercise\\VSCodeExperiment\\VSCodeExperiment.csproj",
-      "outputPath": "D:\\ProjectExcercise\\VSCodeExperiment\\obj\\",
+      "projectPath": "D:\\GitHub_Code\\DotNetCore-1\\VSCodeExperiment.csproj",
+      "outputPath": "D:\\GitHub_Code\\DotNetCore-1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/VSCodeExperiment.dll": "D:\\ProjectExcercise\\VSCodeExperiment\\bin\\placeholder\\netcoreapp1.1\\VSCodeExperiment.dll"
+        "lib/netcoreapp1.1/VSCodeExperiment.dll": "D:\\GitHub_Code\\DotNetCore-1\\bin\\placeholder\\netcoreapp1.1\\VSCodeExperiment.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
