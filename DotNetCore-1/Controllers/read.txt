@@ -1,0 +1,19 @@
+VSCOde COmmands
+
+mkdir TodoApi
+cd TodoApi
+dotnet new webapi
+
+dotnet restore
+dotnet run
+
+------
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-vsc
+
+https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing#attribute-routing-with-httpverb-attributes
+
+https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing#route-template-reference
+
+
+dotnet add package Microsoft.AspNetCore.Cors --version 1.1.2
+https://www.nuget.org/packages/Microsoft.AspNetCore.Cors/1.1.2
